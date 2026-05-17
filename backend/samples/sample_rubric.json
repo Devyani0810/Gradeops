@@ -1,0 +1,33 @@
+{
+"exam_title": "Mid Semester Exam - Computer Networks",
+"total_marks": 30,
+"questions": {
+    "question_1": {
+    "max_marks": 10,
+    "question_text": "Explain the OSI model and its layers.",
+    "criteria": [
+        {"point": "Named all 7 layers correctly", "marks": 3},
+        {"point": "Explained function of at least 4 layers", "marks": 4},
+        {"point": "Gave a real-world example", "marks": 3}
+    ]
+    },
+    "question_2": {
+    "max_marks": 10,
+    "question_text": "What is TCP/IP and how does it differ from UDP?",
+    "criteria": [
+        {"point": "Correctly defined TCP/IP", "marks": 3},
+        {"point": "Correctly defined UDP", "marks": 3},
+        {"point": "Clearly stated at least 2 differences", "marks": 4}
+    ]
+    },
+    "question_3": {
+    "max_marks": 10,
+    "question_text": "Describe the three-way handshake in TCP.",
+    "criteria": [
+        {"point": "Mentioned SYN step correctly", "marks": 3},
+        {"point": "Mentioned SYN-ACK step correctly", "marks": 3},
+        {"point": "Mentioned ACK step and explained why it's needed", "marks": 4}
+    ]
+    }
+}
+}
