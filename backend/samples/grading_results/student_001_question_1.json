@@ -1,0 +1,30 @@
+{
+  "student_id": "student_001",
+  "question_id": "question_1",
+  "max_marks": 10,
+  "grading_result": {
+    "score": 6,
+    "justification": "The student correctly named all 7 layers of the OSI model and provided a brief explanation of the transport layer and an example of the application layer. However, the explanation of the layers' functions was limited. The student also provided a real-world example, but it was not fully developed.",
+    "criteria_breakdown": [
+      {
+        "criterion": "Named all 7 layers correctly",
+        "marks_awarded": 3,
+        "max_marks": 3,
+        "reason": "The student correctly listed all 7 layers of the OSI model: Physical, Data Link, Network, Transport, Session, Presentation, Application."
+      },
+      {
+        "criterion": "Explained function of at least 4 layers",
+        "marks_awarded": 1,
+        "max_marks": 4,
+        "reason": "The student only explained the function of the transport layer, which is not enough to meet the criterion of explaining at least 4 layers."
+      },
+      {
+        "criterion": "Gave a real-world example",
+        "marks_awarded": 2,
+        "max_marks": 3,
+        "reason": "The student provided a real-world example of HTTP being used in the application layer for web browsing, but it was brief and lacked detail."
+      }
+    ]
+  },
+  "status": "AI_GRADED_PENDING_REVIEW"
+}

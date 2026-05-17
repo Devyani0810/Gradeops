@@ -1,0 +1,12 @@
+{
+  "question_1": [
+    {
+      "question_id": "question_1",
+      "student_1": "student_001",
+      "student_2": "student_002",
+      "similarity_score": 1.0,
+      "similarity_percent": "100.0%",
+      "status": "FLAGGED_FOR_REVIEW"
+    }
+  ]
+}
